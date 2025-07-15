@@ -1,0 +1,7 @@
+transformers
+torch
+pandas
+tqdm
+accelerate
+bitsandbytes
+lmdeploy>=0.7.3

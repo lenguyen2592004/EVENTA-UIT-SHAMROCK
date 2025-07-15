@@ -1,0 +1,7 @@
+torch
+transformers
+faiss-cpu
+scikit-learn
+pandas
+pillow
+lmdeploy[all]
