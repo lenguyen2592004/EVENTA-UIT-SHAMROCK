@@ -2,10 +2,10 @@
 
 ## 1. Dataset Preparation
 
-Download and prepare the following files:
+Download and prepare the following files from [https://drive.google.com/drive/folders/1xWgEDWPcIl-JtNPDMa7hlXPHs2Sw\_\_vG](https://drive.google.com/drive/folders/1xWgEDWPcIl-JtNPDMa7hlXPHs2Sw__vG):
 
 - **Database Images** – Download the zipped folder:  
-  [Database/database_images_compressed90_scaled05.zip](https://drive.google.com/...)  
+  Database/database_images_compressed90_scaled05.zip
   Extract its contents to:  
   `database/database_images_compressed90_scaled05/`
 
@@ -17,17 +17,17 @@ Download and prepare the following files:
     `query/query_private.csv`
 
 - **Database Metadata** – Download the JSON file from  
-  [Database/database.json](https://drive.google.com/...)  
+  Database/database.json
   and place it into:  
   `database/database.json`
 
 - **Training Data**
   - Training images: Download the zipped folder:  
-    [Train Set/train_images_compressed90_scaled05.zip](https://drive.google.com/...)  
+    Train Set/train_images_compressed90_scaled05.zip
     and extract it to:  
     `train_images_compressed90_scaled05/`
   - Ground Truth: Download the CSV file:  
-    [Train Set/gt_train.csv](https://drive.google.com/...)  
+    Train Set/gt_train.csv
     and place it appropriately.
 
 Ensure the folder structure matches the paths above.
